@@ -7571,23 +7571,23 @@ http://localhost/ch/988192_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988193_
-#EXTINF:-1 tvg-id="988194" tvg-name="UEFA | 01 - Denmark vs Norway 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 01 - Denmark vs Norway 7:45pm
+#EXTINF:-1 tvg-id="988194" tvg-name="UEFA | 01 - Germany  vs Netherlands  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 01 - Germany  vs Netherlands  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988194_
-#EXTINF:-1 tvg-id="988195" tvg-name="UEFA | 02 - Wales vs Portugal 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 02 - Wales vs Portugal 7:45pm
+#EXTINF:-1 tvg-id="988195" tvg-name="UEFA | 02 - Gibraltar  vs Malta 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 02 - Gibraltar  vs Malta 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988195_
-#EXTINF:-1 tvg-id="988196" tvg-name="UEFA | 03 - Hungary vs Northern Ireland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 03 - Hungary vs Northern Ireland 7:45pm
+#EXTINF:-1 tvg-id="988196" tvg-name="UEFA | 03 - Greece  vs Serbia  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 03 - Greece  vs Serbia  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988196_
-#EXTINF:-1 tvg-id="988197" tvg-name="UEFA | 04 - Ukraine vs Georgia 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 04 - Ukraine vs Georgia 7:45pm
+#EXTINF:-1 tvg-id="988197" tvg-name="UEFA | 04 - North Macedonia  vs Slovania  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 04 - North Macedonia  vs Slovania  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988197_
-#EXTINF:-1 tvg-id="988198" tvg-name="UEFA | 05 - Israel vs Austria 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 05 - Israel vs Austria 7:45pm
+#EXTINF:-1 tvg-id="988198" tvg-name="UEFA | 05 - Switzerland  vs Scotland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|UK| PPV EVENTS",UEFA | 05 - Switzerland  vs Scotland 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/988198_
@@ -19279,7 +19279,7 @@ http://localhost/ch/660800_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/660799_
-#EXTINF:-1 tvg-id="660798" tvg-name="NFL  | 13 - SNF 8:20pm Steelers at Bengals" tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 - SNF 8:20pm Steelers at Bengals
+#EXTINF:-1 tvg-id="660798" tvg-name="NFL  | 13 -" tvg-logo="http://103.176.90.118/picons/logos/nfl.png" group-title="|NA| USA NFL",NFL  | 13 -
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/660798_
@@ -25411,23 +25411,23 @@ http://localhost/ch/720705_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994284_
-#EXTINF:-1 tvg-id="994287" tvg-name="UEFA | 01 - Denmark vs Norway 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 01 - Denmark vs Norway 7:45pm
+#EXTINF:-1 tvg-id="994287" tvg-name="UEFA | 01 - Germany  vs Netherlands  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 01 - Germany  vs Netherlands  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994287_
-#EXTINF:-1 tvg-id="994288" tvg-name="UEFA | 02 - Wales vs Portugal 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 02 - Wales vs Portugal 7:45pm
+#EXTINF:-1 tvg-id="994288" tvg-name="UEFA | 02 - Gibraltar  vs Malta 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 02 - Gibraltar  vs Malta 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994288_
-#EXTINF:-1 tvg-id="994289" tvg-name="UEFA | 03 - Hungary vs Northern Ireland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 03 - Hungary vs Northern Ireland 7:45pm
+#EXTINF:-1 tvg-id="994289" tvg-name="UEFA | 03 - Greece  vs Serbia  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 03 - Greece  vs Serbia  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994289_
-#EXTINF:-1 tvg-id="994290" tvg-name="UEFA | 04 - Ukraine vs Georgia 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 04 - Ukraine vs Georgia 7:45pm
+#EXTINF:-1 tvg-id="994290" tvg-name="UEFA | 04 - North Macedonia  vs Slovania  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 04 - North Macedonia  vs Slovania  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994290_
-#EXTINF:-1 tvg-id="994291" tvg-name="UEFA | 05 - Israel vs Austria 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - Israel vs Austria 7:45pm
+#EXTINF:-1 tvg-id="994291" tvg-name="UEFA | 05 - Switzerland  vs Scotland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - Switzerland  vs Scotland 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/994291_
@@ -25515,23 +25515,23 @@ http://localhost/ch/983120_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983119_
-#EXTINF:-1 tvg-id="983118" tvg-name="UEFA | 01 - Denmark vs Norway 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 01 - Denmark vs Norway 7:45pm
+#EXTINF:-1 tvg-id="983118" tvg-name="UEFA | 01 - Germany  vs Netherlands  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 01 - Germany  vs Netherlands  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983118_
-#EXTINF:-1 tvg-id="983117" tvg-name="UEFA | 02 - Wales vs Portugal 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 02 - Wales vs Portugal 7:45pm
+#EXTINF:-1 tvg-id="983117" tvg-name="UEFA | 02 - Gibraltar  vs Malta 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 02 - Gibraltar  vs Malta 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983117_
-#EXTINF:-1 tvg-id="983116" tvg-name="UEFA | 03 - Hungary vs Northern Ireland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 03 - Hungary vs Northern Ireland 7:45pm
+#EXTINF:-1 tvg-id="983116" tvg-name="UEFA | 03 - Greece  vs Serbia  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 03 - Greece  vs Serbia  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983116_
-#EXTINF:-1 tvg-id="983115" tvg-name="UEFA | 04 - Ukraine vs Georgia 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 04 - Ukraine vs Georgia 7:45pm
+#EXTINF:-1 tvg-id="983115" tvg-name="UEFA | 04 - North Macedonia  vs Slovania  7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 04 - North Macedonia  vs Slovania  7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983115_
-#EXTINF:-1 tvg-id="983114" tvg-name="UEFA | 05 - Israel vs Austria 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - Israel vs Austria 7:45pm
+#EXTINF:-1 tvg-id="983114" tvg-name="UEFA | 05 - Switzerland  vs Scotland 7:45pm" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|NA| PPV LIVE EVENT",UEFA | 05 - Switzerland  vs Scotland 7:45pm
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/983114_
@@ -32139,15 +32139,15 @@ http://localhost/ch/1409500_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409499_
-#EXTINF:-1 tvg-id="1409498" tvg-name="Live | Alcaraz vs. Tiafoe | all | 8K EXCLUSIVE | FR: SOCCER PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Alcaraz vs. Tiafoe | all | 8K EXCLUSIVE | FR: SOCCER PPV 6
+#EXTINF:-1 tvg-id="1409498" tvg-name="End | Alcaraz vs. Tiafoe | all | 16-11-2026 | 13:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Alcaraz vs. Tiafoe | all | 16-11-2026 | 13:59 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409498_
-#EXTINF:-1 tvg-id="1409497" tvg-name="Live | Tennis : ATP Finals | all | 8K EXCLUSIVE | FR: SOCCER PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Tennis : ATP Finals | all | 8K EXCLUSIVE | FR: SOCCER PPV 7
+#EXTINF:-1 tvg-id="1409497" tvg-name="End | Tennis : ATP Finals | all | 16-11-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Tennis : ATP Finals | all | 16-11-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409497_
-#EXTINF:-1 tvg-id="1409496" tvg-name="Next | Stuttgart vs. Leverkusen | all | 16-11-2026 | 17:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Stuttgart vs. Leverkusen | all | 16-11-2026 | 17:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
+#EXTINF:-1 tvg-id="1409496" tvg-name="End | Stuttgart vs. Leverkusen | all | 16-11-2026 | 17:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Stuttgart vs. Leverkusen | all | 16-11-2026 | 17:49 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409496_
@@ -32155,23 +32155,23 @@ http://localhost/ch/1409496_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409495_
-#EXTINF:-1 tvg-id="1409494" tvg-name="Next | Medvedev vs. Cobolli | all | 16-11-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Medvedev vs. Cobolli | all | 16-11-2026 | 20:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
+#EXTINF:-1 tvg-id="1409494" tvg-name="End | Medvedev vs. Cobolli | all | 16-11-2026 | 20:29 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Medvedev vs. Cobolli | all | 16-11-2026 | 20:29 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409494_
-#EXTINF:-1 tvg-id="1409493" tvg-name="Next | Chargers vs. Ravens | all | 16-11-2026 | 23:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Chargers vs. Ravens | all | 16-11-2026 | 23:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 11
+#EXTINF:-1 tvg-id="1409493" tvg-name="Live | Chargers vs. Ravens | all | 8K EXCLUSIVE | FR: SOCCER PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Live | Chargers vs. Ravens | all | 8K EXCLUSIVE | FR: SOCCER PPV 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409493_
-#EXTINF:-1 tvg-id="1409492" tvg-name="Next | Reanne Evans - Fergal Quinn Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Reanne Evans - Fergal Quinn Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
+#EXTINF:-1 tvg-id="1409492" tvg-name="End | Reanne Evans - Fergal Quinn Masters d'Allemagne | Qualifications | all | 16-11-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Reanne Evans - Fergal Quinn Masters d'Allemagne | Qualifications | all | 16-11-2026 | 00:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409492_
-#EXTINF:-1 tvg-id="1409491" tvg-name="Next | Artemijs Zizins - Antoni Kowalski Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Artemijs Zizins - Antoni Kowalski Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
+#EXTINF:-1 tvg-id="1409491" tvg-name="End | Artemijs Zizins - Antoni Kowalski Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Artemijs Zizins - Antoni Kowalski Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409491_
-#EXTINF:-1 tvg-id="1409490" tvg-name="Next | Jamie Clarke - Huang Jiahao Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Jamie Clarke - Huang Jiahao Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
+#EXTINF:-1 tvg-id="1409490" tvg-name="End | Jamie Clarke - Huang Jiahao Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Jamie Clarke - Huang Jiahao Masters d'Allemagne | Qualifications | all | 16-11-2026 | 15:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409490_
@@ -32179,59 +32179,59 @@ http://localhost/ch/1409490_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409489_
-#EXTINF:-1 tvg-id="1409488" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 16" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 16
+#EXTINF:-1 tvg-id="1409488" tvg-name="End | Harrison/Skupski vs. Krawietz/Putz | all | 16-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Harrison/Skupski vs. Krawietz/Putz | all | 16-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409488_
-#EXTINF:-1 tvg-id="1409487" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 17" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 17
+#EXTINF:-1 tvg-id="1409487" tvg-name="End | Michal Szubarczyk - Phil O'Kane Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Michal Szubarczyk - Phil O'Kane Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409487_
-#EXTINF:-1 tvg-id="1409486" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 18" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 18
+#EXTINF:-1 tvg-id="1409486" tvg-name="End | Louis Heathcote - Hammad Miah Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Louis Heathcote - Hammad Miah Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409486_
-#EXTINF:-1 tvg-id="1409485" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 19" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 19
+#EXTINF:-1 tvg-id="1409485" tvg-name="End | Iulian Boiko - Jimmy White Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Iulian Boiko - Jimmy White Masters d'Allemagne | Qualifications | all | 16-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409485_
-#EXTINF:-1 tvg-id="1409484" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 20" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 20
+#EXTINF:-1 tvg-id="1409484" tvg-name="End | Bulls vs. Cavaliers | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Bulls vs. Cavaliers | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409484_
-#EXTINF:-1 tvg-id="1409483" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 21" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 21
+#EXTINF:-1 tvg-id="1409483" tvg-name="End | Magic vs. Celtics | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Magic vs. Celtics | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409483_
-#EXTINF:-1 tvg-id="1409482" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 22" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 22
+#EXTINF:-1 tvg-id="1409482" tvg-name="End | Grizzlies vs. Wizards | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Grizzlies vs. Wizards | all | 17-11-2026 | 01:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409482_
-#EXTINF:-1 tvg-id="1409481" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 23" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 23
+#EXTINF:-1 tvg-id="1409481" tvg-name="End | Rockets vs. Heat | all | 17-11-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Rockets vs. Heat | all | 17-11-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409481_
-#EXTINF:-1 tvg-id="1409480" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 24" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 24
+#EXTINF:-1 tvg-id="1409480" tvg-name="End | 76ers vs. Nets | all | 17-11-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | 76ers vs. Nets | all | 17-11-2026 | 01:30 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409480_
-#EXTINF:-1 tvg-id="1409479" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 25" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 25
+#EXTINF:-1 tvg-id="1409479" tvg-name="Next | Warriors vs. Pelicans | all | 17-11-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Warriors vs. Pelicans | all | 17-11-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409479_
-#EXTINF:-1 tvg-id="1409478" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 26" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 26
+#EXTINF:-1 tvg-id="1409478" tvg-name="Next | Trail Blazers vs. Timberwolves | all | 17-11-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Trail Blazers vs. Timberwolves | all | 17-11-2026 | 02:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409478_
-#EXTINF:-1 tvg-id="1409477" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 27" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 27
+#EXTINF:-1 tvg-id="1409477" tvg-name="Next | Suns vs. Nuggets | all | 17-11-2026 | 03:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Suns vs. Nuggets | all | 17-11-2026 | 03:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409477_
-#EXTINF:-1 tvg-id="1409476" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 28" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 28
+#EXTINF:-1 tvg-id="1409476" tvg-name="Next | Teremoana vs. Ahio: Weigh-In | all | 17-11-2026 | 06:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Teremoana vs. Ahio: Weigh-In | all | 17-11-2026 | 06:57 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409476_
-#EXTINF:-1 tvg-id="1409475" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 29" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 29
+#EXTINF:-1 tvg-id="1409475" tvg-name="Next | Tennis : ATP Finals: Phase de groupe 3e journée, Simple | all | 17-11-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 29" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Tennis : ATP Finals: Phase de groupe 3e journée, Simple | all | 17-11-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409475_
@@ -32255,27 +32255,27 @@ http://localhost/ch/1409471_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409470_
-#EXTINF:-1 tvg-id="1409469" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 35" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 35
+#EXTINF:-1 tvg-id="1409469" tvg-name="Next | Sydney, Nova Scotia - Day 1, Draw 3 | all | 17-11-2026 | 20:52 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Sydney, Nova Scotia - Day 1, Draw 3 | all | 17-11-2026 | 20:52 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409469_
-#EXTINF:-1 tvg-id="1409468" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 36" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 36
+#EXTINF:-1 tvg-id="1409468" tvg-name="Next | Fils vs. Jodar | all | 17-11-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Fils vs. Jodar | all | 17-11-2026 | 14:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409468_
-#EXTINF:-1 tvg-id="1409467" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 37" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 37
+#EXTINF:-1 tvg-id="1409467" tvg-name="Next | Tennis : ATP Finals Turin: Phase de groupe 3e journée, Double | all | 17-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Tennis : ATP Finals Turin: Phase de groupe 3e journée, Double | all | 17-11-2026 | 18:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409467_
-#EXTINF:-1 tvg-id="1409466" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 38" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 38
+#EXTINF:-1 tvg-id="1409466" tvg-name="Next | Marco Fu - Oliver Sykes Masters d'Allemagne | Qualifications | all | 17-11-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",Next | Marco Fu - Oliver Sykes Masters d'Allemagne | Qualifications | all | 17-11-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409466_
-#EXTINF:-1 tvg-id="1409465" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 39" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 39
+#EXTINF:-1 tvg-id="1409465" tvg-name="End | Michael Holt - Lyu Haotian Masters d'Allemagne | Qualifications | all | 17-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Michael Holt - Lyu Haotian Masters d'Allemagne | Qualifications | all | 17-11-2026 | 20:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409465_
-#EXTINF:-1 tvg-id="1409464" tvg-name="NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 40" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",NO EVENT STREAMING NOW - | 8K EXCLUSIVE | FR: SOCCER PPV 40
+#EXTINF:-1 tvg-id="1409464" tvg-name="End | Liam Pullen - Bai Yulu Masters d'Allemagne | Qualifications | all | 16-11-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40" tvg-logo="http://103.176.90.154/picons/logos/PPV/PPVLIVE.png" group-title="|EU| FR SOCCER PPV",End | Liam Pullen - Bai Yulu Masters d'Allemagne | Qualifications | all | 16-11-2026 | 11:00 (GMT) | 8K EXCLUSIVE | FR: SOCCER PPV 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1409464_
@@ -40283,19 +40283,19 @@ http://localhost/ch/1358331_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/985362_
-#EXTINF:-1 tvg-id="1331981" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 1
+#EXTINF:-1 tvg-id="1331981" tvg-name="NEXT | ACS HC BUZAU - SG FLENSBURG-HANDEWITT | Tue 17 Nov 18:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | ACS HC BUZAU - SG FLENSBURG-HANDEWITT | Tue 17 Nov 18:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1331981_
-#EXTINF:-1 tvg-id="1331980" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 2
+#EXTINF:-1 tvg-id="1331980" tvg-name="NEXT | EULEN LUDWIGSHAFEN - ASV HAMM-WESTFALEN | Tue 17 Nov 19:10 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | EULEN LUDWIGSHAFEN - ASV HAMM-WESTFALEN | Tue 17 Nov 19:10 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1331980_
-#EXTINF:-1 tvg-id="1331979" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 3
+#EXTINF:-1 tvg-id="1331979" tvg-name="NEXT | BERGISCHER HC - MRK SESVETE | Tue 17 Nov 20:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | BERGISCHER HC - MRK SESVETE | Tue 17 Nov 20:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1331979_
-#EXTINF:-1 tvg-id="1331978" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",- NO EVENT STREAMING - | 8K EXCLUSIVE | DE: DYN PPV 4
+#EXTINF:-1 tvg-id="1331978" tvg-name="NEXT | RK PELISTER - VFL GUMMERSBACH | Tue 17 Nov 20:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/DYN.png" group-title="|DE| DYN NETWORK",NEXT | RK PELISTER - VFL GUMMERSBACH | Tue 17 Nov 20:35 CET (DE) | 8K EXCLUSIVE | DE: DYN PPV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1331978_
@@ -46639,47 +46639,47 @@ http://localhost/ch/842082_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168966_
-#EXTINF:-1 tvg-id="1168965" tvg-name="NEXT | IULIAN BOIKO - JIMMY WHITE | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | IULIAN BOIKO - JIMMY WHITE | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
+#EXTINF:-1 tvg-id="1168965" tvg-name="LIVE | BOSTON CELTICS - ORLANDO MAGIC | Tue 17 Nov 01:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",LIVE | BOSTON CELTICS - ORLANDO MAGIC | Tue 17 Nov 01:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168965_
-#EXTINF:-1 tvg-id="1168964" tvg-name="NEXT | MICHAŁ SZUBARCZYK - PHIL O'KANE | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MICHAŁ SZUBARCZYK - PHIL O'KANE | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
+#EXTINF:-1 tvg-id="1168964" tvg-name="NEXT | LIAM PULLEN - BAI YULU | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LIAM PULLEN - BAI YULU | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168964_
-#EXTINF:-1 tvg-id="1168963" tvg-name="NEXT | LOUIS HEATHCOTE - HAMMAD MIAH | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LOUIS HEATHCOTE - HAMMAD MIAH | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
+#EXTINF:-1 tvg-id="1168963" tvg-name="NEXT | STEVEN HALLWORTH - ONYEE NG | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | STEVEN HALLWORTH - ONYEE NG | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168963_
-#EXTINF:-1 tvg-id="1168962" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 4
+#EXTINF:-1 tvg-id="1168962" tvg-name="NEXT | MARCO FU - OLIVER SYKES  | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MARCO FU - OLIVER SYKES  | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168962_
-#EXTINF:-1 tvg-id="1168961" tvg-name="NEXT | ANTONI KOWALSKI - ARTEMIJS ZIZINS | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 5" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | ANTONI KOWALSKI - ARTEMIJS ZIZINS | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
+#EXTINF:-1 tvg-id="1168961" tvg-name="NEXT | JORDAN BROWN - SAHIL NAYYAR  | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 5" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JORDAN BROWN - SAHIL NAYYAR  | Tue 17 Nov 11:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168961_
-#EXTINF:-1 tvg-id="1168960" tvg-name="NEXT | REANNE EVANS - FERGAL QUINN | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | REANNE EVANS - FERGAL QUINN | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
+#EXTINF:-1 tvg-id="1168960" tvg-name="NEXT | HE QUOQIANG - ISHPREET SINGH CHADHA | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | HE QUOQIANG - ISHPREET SINGH CHADHA | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168960_
-#EXTINF:-1 tvg-id="1168959" tvg-name="NEXT | JAMIE CLARKE - HUANG JIAHAO | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | JAMIE CLARKE - HUANG JIAHAO | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
+#EXTINF:-1 tvg-id="1168959" tvg-name="NEXT | RYAN DAY - DAVID GRACE  | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | RYAN DAY - DAVID GRACE  | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168959_
-#EXTINF:-1 tvg-id="1168958" tvg-name="NEXT | LYU HAOTIAN - PANCHAYA CHANNOI | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LYU HAOTIAN - PANCHAYA CHANNOI | Mon 16 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
+#EXTINF:-1 tvg-id="1168958" tvg-name="NEXT | STAN MOODY - SEAN O'SULLIVAN | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | STAN MOODY - SEAN O'SULLIVAN | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168958_
-#EXTINF:-1 tvg-id="1168957" tvg-name="NEXT | AUSTIN CHAMPIONSHIP | 4. DZIEŃ | Mon 16 Nov 18:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 9" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | AUSTIN CHAMPIONSHIP | 4. DZIEŃ | Mon 16 Nov 18:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
+#EXTINF:-1 tvg-id="1168957" tvg-name="NEXT | LUCA BRECEL - YAO PENGCHENG | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 9" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LUCA BRECEL - YAO PENGCHENG | Tue 17 Nov 15:30 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168957_
-#EXTINF:-1 tvg-id="1168956" tvg-name="NEXT | LIAM DAVIES - ALFIE BURDEN | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | LIAM DAVIES - ALFIE BURDEN | Mon 16 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
+#EXTINF:-1 tvg-id="1168956" tvg-name="NEXT | DAVID GILBERT - ARTEMIJS ZIZINS | Tue 17 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | DAVID GILBERT - ARTEMIJS ZIZINS | Tue 17 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168956_
-#EXTINF:-1 tvg-id="1168955" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | PL: MAX PPV 11
+#EXTINF:-1 tvg-id="1168955" tvg-name="NEXT | MICHAEL HOLT - LYU HAOTIAN | Tue 17 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|PL| MAX PPV",NEXT | MICHAEL HOLT - LYU HAOTIAN | Tue 17 Nov 20:00 CET (PL) | 8K EXCLUSIVE | PL: MAX PPV 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1168955_
@@ -55199,55 +55199,55 @@ http://localhost/ch/1268926_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307816_
-#EXTINF:-1 tvg-id="1307815" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 1
+#EXTINF:-1 tvg-id="1307815" tvg-name="LIVE | ORLANDO MAGIC @ BOSTON CELTICS | Tue 17 Nov 01:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 1" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ORLANDO MAGIC @ BOSTON CELTICS | Tue 17 Nov 01:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307815_
-#EXTINF:-1 tvg-id="1307814" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 2
+#EXTINF:-1 tvg-id="1307814" tvg-name="NEXT | LIAM PULLEN - BAI YULU | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 2" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LIAM PULLEN - BAI YULU | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307814_
-#EXTINF:-1 tvg-id="1307813" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 3
+#EXTINF:-1 tvg-id="1307813" tvg-name="NEXT | STEVEN HALLWORTH - ONYEE NG | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 3" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | STEVEN HALLWORTH - ONYEE NG | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307813_
-#EXTINF:-1 tvg-id="1307812" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 4
+#EXTINF:-1 tvg-id="1307812" tvg-name="NEXT | MARCO FU - OLIVER SYKES  | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 4" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MARCO FU - OLIVER SYKES  | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307812_
-#EXTINF:-1 tvg-id="1307811" tvg-name="NEXT | ARTEMIJS ZIZINS - ANTONI KOWALSKI | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 5" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ARTEMIJS ZIZINS - ANTONI KOWALSKI | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
+#EXTINF:-1 tvg-id="1307811" tvg-name="NEXT | JORDAN BROWN - SAHIL NAYYAR  | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 5" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JORDAN BROWN - SAHIL NAYYAR  | Tue 17 Nov 11:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307811_
-#EXTINF:-1 tvg-id="1307810" tvg-name="NEXT | REANNE EVANS - FERGAL QUINN | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | REANNE EVANS - FERGAL QUINN | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
+#EXTINF:-1 tvg-id="1307810" tvg-name="NEXT | HE QUOQIANG - ISHPREET SINGH CHADHA | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 6" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | HE QUOQIANG - ISHPREET SINGH CHADHA | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307810_
-#EXTINF:-1 tvg-id="1307809" tvg-name="NEXT | JAMIE CLARKE - HUANG JIAHAO | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | JAMIE CLARKE - HUANG JIAHAO | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
+#EXTINF:-1 tvg-id="1307809" tvg-name="NEXT | RYAN DAY - DAVID GRACE  | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 7" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | RYAN DAY - DAVID GRACE  | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307809_
-#EXTINF:-1 tvg-id="1307808" tvg-name="NEXT | LYU HAOTIAN - PANCHAYA CHANNOI | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LYU HAOTIAN - PANCHAYA CHANNOI | Mon 16 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
+#EXTINF:-1 tvg-id="1307808" tvg-name="NEXT | STAN MOODY - SEAN O'SULLIVAN | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 8" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | STAN MOODY - SEAN O'SULLIVAN | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307808_
-#EXTINF:-1 tvg-id="1307807" tvg-name="NEXT | AUSTIN CHAMPIONSHIP | DAY 4 | Mon 16 Nov 18:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 9" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AUSTIN CHAMPIONSHIP | DAY 4 | Mon 16 Nov 18:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
+#EXTINF:-1 tvg-id="1307807" tvg-name="NEXT | LUCA BRECEL - YAO PENGCHENG | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 9" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LUCA BRECEL - YAO PENGCHENG | Tue 17 Nov 15:30 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307807_
-#EXTINF:-1 tvg-id="1307806" tvg-name="NEXT | LIAM DAVIES - ALFIE BURDEN | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LIAM DAVIES - ALFIE BURDEN | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
+#EXTINF:-1 tvg-id="1307806" tvg-name="NEXT | DAVID GILBERT - ARTEMIJS ZIZINS | Tue 17 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 10" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | DAVID GILBERT - ARTEMIJS ZIZINS | Tue 17 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307806_
-#EXTINF:-1 tvg-id="1307805" tvg-name="NEXT | IULIAN BOIKO - JIMMY WHITE | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | IULIAN BOIKO - JIMMY WHITE | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
+#EXTINF:-1 tvg-id="1307805" tvg-name="NEXT | MICHAEL HOLT - LYU HAOTIAN | Tue 17 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 11" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MICHAEL HOLT - LYU HAOTIAN | Tue 17 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307805_
-#EXTINF:-1 tvg-id="1307804" tvg-name="NEXT | MICHAL SZUBARCZYK - PHIL O'KANE | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 12" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MICHAL SZUBARCZYK - PHIL O'KANE | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
+#EXTINF:-1 tvg-id="1307804" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307804_
-#EXTINF:-1 tvg-id="1307803" tvg-name="NEXT | LOUIS HEATHCOTE - HAMMAD MIAH | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 13" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | LOUIS HEATHCOTE - HAMMAD MIAH | Mon 16 Nov 20:00 CET (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
+#EXTINF:-1 tvg-id="1307803" tvg-name="- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13" tvg-logo="http://103.176.90.154/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stalker/
 #EXTVLCOPT:http-cookie=mac=00:1A:79:B6:47:E7
 http://localhost/ch/1307803_
